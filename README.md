@@ -4,7 +4,7 @@
 [![RimWorld 1.1+](https://img.shields.io/badge/RimWorld-1.1%2B-brightgreen)](http://rimworldgame.com/)
 
 # Expanded Woodworking
-An upgrade to Qwynn's Expanded Woodworking which is an alpha version fork of ItchyFlea's Extended Woodworking.
+A fork for Qwynn's Expanded Woodworking which is an alpha version fork of ItchyFlea's Extended Woodworking.
 
 ## Installation
 Remove the previous and drop the latest release into your `RimWorld/Mods` folder.
