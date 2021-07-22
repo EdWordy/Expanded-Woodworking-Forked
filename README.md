@@ -8,7 +8,7 @@
 A fork for Qwynn's Expanded Woodworking which is an alpha version fork of ItchyFlea's Extended Woodworking.
 
 ## Installation
-Remove the previous and drop the latest release into your `RimWorld/Mods` folder.
+Unsubscribe from the workshop version and drop the latest release into your `RimWorld/Mods` folder.
 
 ## Features
 - Trees, saguaro cacti, and bamboo have their own unique wood.
