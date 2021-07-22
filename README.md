@@ -2,7 +2,7 @@
 
 [![RimWorld 1.0](https://img.shields.io/badge/RimWorld-1.0-brightgreen.svg)](http://rimworldgame.com/)
 [![RimWorld 1.1+](https://img.shields.io/badge/RimWorld-1.1%2B-brightgreen)](http://rimworldgame.com/)
-[![RimWorld 1.3](https://img.shields.io/badge/RimWorld-1.3%2B-brightgreen)](http://rimworldgame.com/)
+[![RimWorld 1.3](https://img.shields.io/badge/RimWorld-1.3-brightgreen.svg)](http://rimworldgame.com/)
 
 # Expanded Woodworking
 A fork for Qwynn's Expanded Woodworking which is an alpha version fork of ItchyFlea's Extended Woodworking.
