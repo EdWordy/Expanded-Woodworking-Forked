@@ -55,7 +55,7 @@ Mods given extended functionality with included patches:
 - Zen Garden
 
 ## Found a Bug?
-When making a bug report, please make sure you have developer mode enabled in your Rimworld settings. You may then create your report [here](https://github.com/Adventurer13/ExpandedWoodworking/issues). A link to your exported HugsLib log would be greatly appreciated as well.
+When making a bug report, please make sure you have developer mode enabled in your Rimworld settings. You may then create your report [here](https://github.com/EdWordy/Expanded-Woodworking-Forked/issues). A link to your exported HugsLib log would be greatly appreciated as well.
 
 ## Older Versions
 All current and past 1.2/1.1/1.0/B19/B18/A17 versions of this mod can be downloaded from [GitHub](https://github.com/Adventurer13/ExpandedWoodworking/releases).
