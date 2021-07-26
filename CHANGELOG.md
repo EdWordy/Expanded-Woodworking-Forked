@@ -1,6 +1,10 @@
 # Change Log
 
-**Current:** [v1.2.2.2](https://github.com/Adventurer13/ExpandedWoodworking/releases/tag/v1.2.2.2 )
+**Current:** [v1.3.1](https://github.com/EdWordy/Expanded-Woodworking-Forked/releases/tag/1.3.1)
+
+## [1.3.1] - 2021-07-21
+### Fixed
+- Added support for 1.3
 
 ## [1.2.2.2] - 2020-11-28
 ### Fixed
